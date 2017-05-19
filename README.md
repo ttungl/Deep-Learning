@@ -2,4 +2,5 @@
 This is the online course on Udacity.
 Instructor: [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html)
 
+### Lesson 1:
 * Assignment 1: Deep Learning with Tensorflow. 
