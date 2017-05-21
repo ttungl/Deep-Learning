@@ -1,4 +1,4 @@
-# Deep Learning by Google 
+# Deep Learning by https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png 
 This is the online course on [Udacity](https://www.udacity.com/course/deep-learning--ud730).
 
 Instructor: [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html)
