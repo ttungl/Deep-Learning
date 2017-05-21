@@ -1,4 +1,4 @@
-# Deep Learning by ![alt text](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/googlelogo.png | width=100)
+# Deep Learning by ![alt text](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/googlelogo.png width="150" height="92")
 
 This is the online course on [Udacity](https://www.udacity.com/course/deep-learning--ud730).
 
