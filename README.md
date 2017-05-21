@@ -1,5 +1,5 @@
 # Deep Learning by Google 
-This is the online course on [Udacity](https://www.udacity.com/).
+This is the online course on [Udacity](https://www.udacity.com/course/deep-learning--ud730).
 
 Instructor: [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html)
 
