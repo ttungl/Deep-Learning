@@ -1,5 +1,5 @@
-# Deep Learning by ![alt text](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
- 
+# Deep Learning by ![image](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/googlelogo.png?raw=true= 150x)
+
 This is the online course on [Udacity](https://www.udacity.com/course/deep-learning--ud730).
 
 Instructor: [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html)
