@@ -13,7 +13,7 @@ Instructor: [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhouck
 
 ### Part 2:
 ##### Deep Networks
-* [Assigment 2](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/2_fullyconnected.ipynb)
+* [Assigment 2](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/2_fullyconnected.ipynb):
 
   + [A fully connected network with SGD and ReLUs](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/2_fully_connected_network_using_SGD.ipynb)
               
