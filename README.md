@@ -18,7 +18,9 @@ Instructor: [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhouck
   + [A fully connected network using SGD and ReLUs with Tensorflow](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/2_fully_connected_network_using_SGD.ipynb)
               
 ##### Regularization
-
+* [Assignment 3](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/3_regularization.ipynb)
+  + [Implemented the multi-layer neural network using ReLUs, L2-regularization, and dropout](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/3_Regularization.ipynb).
+  
 ### Part 3:
 ##### Convolutional Networks
 
