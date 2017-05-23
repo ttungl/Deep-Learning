@@ -12,7 +12,7 @@ Instructor: [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhouck
   + [notMNIST - Deep Learning with Tensorflow](https://github.com/ttungl/Deep-Learning-by-Google/blob/master/Lesson1/DeepLearning_assignment_1.ipynb). 
 
 ### Part 2:
-##### Deep Networks
+##### Deep Neural Networks
 * [Assigment 2](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/2_fullyconnected.ipynb):
 
   + [Implemented a fully connected network using SGD and ReLUs with Tensorflow](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/2_fully_connected_network_using_SGD.ipynb)
