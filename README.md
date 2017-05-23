@@ -1,5 +1,5 @@
 # Deep Learning 
-<img width="95" src="https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/googlelogo.png">
+<img width="95" src="https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/googlelogo.png"> <img width="95" src="https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/tensorflow.png">
 
 This is the online course on [Udacity](https://www.udacity.com/course/deep-learning--ud730).
 
