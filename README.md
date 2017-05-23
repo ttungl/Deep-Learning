@@ -15,7 +15,7 @@ Instructor: [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhouck
 ##### Deep Networks
 * [Assigment 2](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/2_fullyconnected.ipynb):
 
-  + [A fully connected network using SGD and ReLUs with Tensorflow](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/2_fully_connected_network_using_SGD.ipynb)
+  + [Implemented a fully connected network using SGD and ReLUs with Tensorflow](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/2_fully_connected_network_using_SGD.ipynb)
               
 ##### Regularization
 * [Assignment 3](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/3_regularization.ipynb)
