@@ -3,7 +3,7 @@
 
 This is the online course on [Udacity](https://www.udacity.com/course/deep-learning--ud730).
 
-Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html)
+Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html) from Google.
 
 ### Part 1: 
 ##### Logistic Regression, Stochastic Optimization, and Data & parameters tuning. 
