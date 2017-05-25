@@ -31,5 +31,12 @@ Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanh
 ### Part 4: 
 #### Deep Models for Text and Sequences
 ###### Embeddings 
-
-###### Recurrent Models
+* [Assignment 5](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/5_word2vec.ipynb).
+  + [Word2Vec]()
+  
+###### Recurrent Neural Networks
+* [Assignment 6](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/6_lstm.ipynb).
+  + [LSTM: Long Short-Term Memory]()
+  
+### Part 5: 
+#### Application
