@@ -5,7 +5,7 @@ This is the online course on [Udacity](https://www.udacity.com/course/deep-learn
 
 Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html) from Google Brain.
 
-Notice: The questions for assignments can be found at this [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity)
+Notice: The questions for assignments can be found at this [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity).
 
 ### Part 1: 
 #### Logistic Regression, Stochastic Optimization, and Data & parameters tuning. 
