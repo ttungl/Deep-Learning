@@ -28,7 +28,7 @@ Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanh
 * [Assignment 4](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/4_convolutions.ipynb):
   + [Implemented a convolutional neural network](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/4_Convolutional_Neural_Networks.ipynb).
   
-### Part 4:
+### Part 4: Deep Models for Text and Sequences
 #### Embeddings 
 
 #### Recurrent Models
