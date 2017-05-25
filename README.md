@@ -5,38 +5,32 @@ This is the online course on [Udacity](https://www.udacity.com/course/deep-learn
 
 Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html) from Google Brain.
 
+Notice: The questions for assignments can be found at this [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity)
+
 ### Part 1: 
 #### Logistic Regression, Stochastic Optimization, and Data & parameters tuning. 
-* [Assignment 1](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb):
-
-  + [notMNIST - Deep Learning with Tensorflow](https://github.com/ttungl/Deep-Learning-by-Google/blob/master/Lesson1/DeepLearning_assignment_1.ipynb). 
+* [notMNIST - Deep Learning with Tensorflow](https://github.com/ttungl/Deep-Learning-by-Google/blob/master/Lesson1/DeepLearning_assignment_1.ipynb). 
 
 ### Part 2:
 #### Deep Neural Networks
-* [Assignment 2](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/2_fullyconnected.ipynb):
-
-  + [Implemented a fully connected network using SGD and ReLUs with Tensorflow](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/2_fully_connected_network_using_SGD.ipynb)
+* [Implemented a fully connected network using SGD and ReLUs with Tensorflow](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/2_fully_connected_network_using_SGD.ipynb)
               
 #### Regularization
-* [Assignment 3](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/3_regularization.ipynb):
-  + [Implemented a multi-layer neural network using ReLUs, L2-regularization, and dropout, to prevent overfitting](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/3_Regularization.ipynb).
+* [Implemented a multi-layer neural network using ReLUs, L2-regularization, and dropout, to prevent overfitting](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/3_Regularization.ipynb).
   
 ### Part 3:
 #### Convolutional Networks
 * Reading: 
   + V. Dumoulin and F. Visin, [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf). (arXiv, March 2016). 
-* [Assignment 4](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/4_convolutions.ipynb):
-  + [Implemented a convolutional neural network](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/4_Convolutional_Neural_Networks.ipynb).
+* [Implemented a convolutional neural network](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/4_Convolutional_Neural_Networks.ipynb).
   
 ### Part 4: 
 #### Deep Models for Text and Sequences
 ###### Embeddings 
-* [Assignment 5](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/5_word2vec.ipynb).
-  + [Word2Vec]()
+* [Word2Vec]()
   
 ###### Recurrent Neural Networks
-* [Assignment 6](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/6_lstm.ipynb).
-  + [LSTM: Long Short-Term Memory]()
+* [LSTM: Long Short-Term Memory]()
   
 ### Part 5: 
 #### Application
