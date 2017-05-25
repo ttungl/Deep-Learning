@@ -24,7 +24,7 @@ Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanh
 ### Part 3:
 ##### Convolutional Networks
 * Reading: 
-  + V. Dumoulin and F. Visin, [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf). in arXiv, March 2016. 
+  + V. Dumoulin and F. Visin, [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf). (arXiv, March 2016). 
 * [Assignment 4](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/4_convolutions.ipynb):
   + [Implemented a convolutional neural network]().
   
