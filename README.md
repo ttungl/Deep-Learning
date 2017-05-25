@@ -19,7 +19,7 @@ Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanh
               
 #### Regularization
 * [Assignment 3](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/3_regularization.ipynb):
-  + [Implemented a multi-layer neural network using ReLUs, L2-regularization, and dropout](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/3_Regularization.ipynb).
+  + [Implemented a multi-layer neural network using ReLUs, L2-regularization, and dropout, to prevent overfitting](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/3_Regularization.ipynb).
   
 ### Part 3:
 #### Convolutional Networks
