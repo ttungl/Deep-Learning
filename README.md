@@ -32,5 +32,4 @@ Notice: The original assignments can be found at this [link](https://github.com/
 ###### Recurrent Neural Networks
 * [LSTM: Long Short-Term Memory]()
   
-### Part 5: 
-#### Application
+
