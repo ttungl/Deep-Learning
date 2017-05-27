@@ -24,8 +24,8 @@ Notice: The original assignments can be found at this [link](https://github.com/
 ### * Deep Models for Text and Sequences
 ##### Embeddings 
 * Reading:
-  + Tomas Mikolov et al., [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf). (arXiv, Sep 2013).
-  + Tomas Mikolov et al., [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf). (arXiv, Oct 2013). Negative sampling issues in Word2Vec.
+  + T. Mikolov et al., [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf). (arXiv, Sep 2013).
+  + T. Mikolov et al., [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf). (arXiv, Oct 2013). Negative sampling issues in Word2Vec.
 * [Word2Vec]()
   
 ##### Recurrent Neural Networks
