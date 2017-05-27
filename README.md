@@ -23,6 +23,8 @@ Notice: The original assignments can be found at this [link](https://github.com/
 
 ### Deep Models for Text and Sequences
 ##### Embeddings 
+* Reading:
+  + Tomas Mikolov et al., [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf). (arXiv, Sep 2013).
 * [Word2Vec]()
   
 ##### Recurrent Neural Networks
