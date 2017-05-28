@@ -31,6 +31,8 @@ Notice: The original assignments can be found at this [link](https://github.com/
   + With [enwik8.zip dataset](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/5_WordToVec_enwik8.ipynb).
  
 ##### Recurrent Neural Networks
+* Reading:
+  + [Understanding LSTM networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [LSTM: Long Short-Term Memory]()
   
 
