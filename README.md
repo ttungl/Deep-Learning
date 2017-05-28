@@ -22,7 +22,7 @@ Notice: The original assignments can be found at this [link](https://github.com/
 * [Implemented a convolutional neural network](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/4_Convolutional_Neural_Networks.ipynb).
 
 ### * Deep Models for Text and Sequences
-##### Embeddings 
+#### Embeddings 
 * Reading:
   + T. Mikolov et al., [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf). (arXiv, Sep 2013).
   + T. Mikolov et al., [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf). (arXiv, Oct 2013). `Subsampling` and `Negative sampling` in Word2Vec.
@@ -30,7 +30,7 @@ Notice: The original assignments can be found at this [link](https://github.com/
   + With [text8.zip dataset](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/5_WordToVec.ipynb).
   + With [enwik8.zip dataset](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/5_WordToVec_enwik8.ipynb).
  
-##### Recurrent Neural Networks
+#### Recurrent Neural Networks
 * Reading:
   + [Understanding LSTM networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [LSTM: Long Short-Term Memory]()
