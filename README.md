@@ -18,7 +18,7 @@ Notice: The original assignments can be found at this [link](https://github.com/
   
 ### * Convolutional Networks
 * Reading: 
-  + C. Olah, [Conv Nets: A Modular Perspective.](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/). 
+  + C. Olah, [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/). 
   + V. Dumoulin and F. Visin, [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf). (arXiv, March 2016). 
 * [Implemented a convolutional neural network](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/4_Convolutional_Neural_Networks.ipynb).
 
