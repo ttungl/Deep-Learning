@@ -37,4 +37,4 @@ Notice: The original assignments can be found at this [link](https://github.com/
   + [Understanding LSTM networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
   + H. Sak et al., [Long Short-Term Memory Based Recurrent Neural Network Architectures for Large Vocabulary Speech Recognition](https://arxiv.org/pdf/1402.1128v1.pdf). (arXiv, Feb 2014).
 * [LSTM: Long Short-Term Memory](https://github.com/ttungl/Deep-Learning/blob/master/Lesson1/6_LSTMs.ipynb)
-  + Note: Backprop for RNNs will be updated soon!
+  + Note: Backprop for RNNs example can be found at this [link](http://peterroelants.github.io/posts/rnn_implementation_part01/).
