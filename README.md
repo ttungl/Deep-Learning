@@ -42,4 +42,4 @@ Notice: The original assignments can be found at this [link](https://github.com/
   + [char-LSTM implementation with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)
 
 #### [Resources]
-* [Book] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff), Nov 2017 by [François Chollet](https://twitter.com/fchollet)
+* [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks), Nov 2017 by [François Chollet](https://twitter.com/fchollet)
