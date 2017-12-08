@@ -41,5 +41,5 @@ Notice: The original assignments can be found at this [link](https://github.com/
   + Note: Backprop for RNNs example can be found at these links [[1]](http://peterroelants.github.io/posts/rnn_implementation_part01/) and [[2]](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/).
   + [char-LSTM implementation with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)
 
-#### [Resources:]
+#### [Resources]
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) by [Francois Chollet](https://twitter.com/fchollet)
